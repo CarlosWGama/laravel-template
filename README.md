@@ -1,4 +1,4 @@
-# Prefeitura de Paripueira
+# Template Site
 
 ### Versão 2.0
 
